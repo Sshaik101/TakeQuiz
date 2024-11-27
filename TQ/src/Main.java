@@ -20,8 +20,8 @@ class Main {
         System.out.println();        
         System.out.print("What's your second number?");
         int secondNum = scan.nextInt();
+        */
         int ans = s.calculate(firstNum, secondNum);  
         System.out.println(ans);  
-        */
     }
 }
